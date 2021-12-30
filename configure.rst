@@ -38,4 +38,4 @@ Second, you want to exit out of the configurations that popup.
 That's it! You can now edit the settings to have extra configurations.
 
 
-`Please click on this link to learn how to fix any common issues found. <https://github.com/User319183/Profanity-Blocker_Extension.Docs/blob/main/configure.rst>`_
+`Please click on this link to learn how to fix any common issues found. <https://github.com/User319183/Profanity-Blocker_Extension.Docs/blob/main/common_issues.rst>`_

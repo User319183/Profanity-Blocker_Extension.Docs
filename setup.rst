@@ -3,7 +3,7 @@ Setting up the extension
 ========
 Profanity Blocker is easy to setup with everything in one spot!
 
-First, after downloading the extension, go to your extensions and pin Profanity Blocker.This step isn't required but it's very easy to configure the extension when it's pinned.
+First, after downloading the extension, go to your extensions and pin Profanity Blocker. This step isn't required but it's very easy to configure the extension when it's pinned.
 
 Second, click the extension and type any password you will remember. Then confirm your password.
 
