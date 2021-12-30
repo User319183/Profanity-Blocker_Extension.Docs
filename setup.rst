@@ -11,4 +11,4 @@ Third, if you did it correctly, all of your tabs should refresh.
 
 Fourth, in order to make sure everything is working properly, google any bad word. If it's being starred, you did everything correctly so far!
 
-`Please click on this link to learn how to configure this extension. <https://github.com/User319183/Profanity-Blocker_Extension.Docs/blob/main/downloading.rst>`_
+`Please click on this link to learn how to configure this extension. <https://github.com/User319183/Profanity-Blocker_Extension.Docs/blob/main/configure.rst>`_
