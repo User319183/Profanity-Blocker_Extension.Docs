@@ -14,7 +14,7 @@ The punishment is not for me to decide. This is just how you can know if your ch
 Issue: Computer lagging due to extension.
 
 Solution: As of version 1.0, this will be a major issue until we come up with a proper solution. I would say to remove some of the 
-`extra configurations. <https://github.com/User319183/Profanity-Blocker_Extension.Docs/blob/main/configure.rst>`_. 
+`extra configurations <https://github.com/User319183/Profanity-Blocker_Extension.Docs/blob/main/configure.rst>`_. 
 For example, one thing that boosts preformance is to change the **Site access** from **On all sites** to **On click**.
 
 

@@ -18,8 +18,8 @@ When you are on the configuration settings of the extensions you might be confus
 You can choose the censor method of bad words, (the default is *) you can choose the match method, what this means is what part of the word do you want censored, 
 you can add and/or remove your own words, when doing this, you can say if it has more types of meanings for that word, and last, you can view the word list.
 
-**Words** : The words tab is the next tab. This tab just shows all the words in your word list. The numbers next to the words repreasents the amount of words 
-on each website and thw word count. You can view daily history, from a specfic date, and total amount.
+**Words** : The words tab is the next tab. This tab just shows all the words in your word list. The numbers next to the words repreasents the amount of bad words 
+on each website and the word count. You can view daily history, from a specfic date, and total amount.
 
 **Ranks** : This tab shows all the websites you have been on and their profanity count. You can remove and/or add your own websites to the filter.
 
