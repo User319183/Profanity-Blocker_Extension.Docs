@@ -1,0 +1,1 @@
+![alt text](https://github.com/User319183/Profanity-Blocker_Extension.Docs/blob/main/assets/chromewebstore_without_adding.png)
