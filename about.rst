@@ -7,4 +7,4 @@ On Discord, Profanity Blocker has been coded in Python3. For the chrome extensio
 
 The extension, Profanity Blocker, has been created in late October of 2021 and will be free for a while.
 
-`Please click on this link to learn how to download this extension. <https://top.gg/bot/878028158136373248>`_
+`Please click on this link to learn how to download this extension. <https://github.com/User319183/Profanity-Blocker_Extension.Docs/blob/main/downloading.rst>`_
