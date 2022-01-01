@@ -14,7 +14,7 @@ January 2022 Update
 ========
 On January first, Profanity Blocker's Version 1.2 update has been submitted.
 
-** Better Website Protection**
+**Better Website Protection**
 
 Profanity Blocker is finally able to block websites. There were many issues with it and the only thing it was able to block was Youtube.
 
