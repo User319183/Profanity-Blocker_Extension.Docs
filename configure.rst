@@ -14,7 +14,8 @@ What do the tabs mean?
 ========
 When you are on the configuration settings of the extensions you might be confused on what some of the settings might mean. Let me explain!
 
-**Settings** : The settings tab is the main tab for the configurations. You can choose the type of filter method, 
+**Settings** : The settings tab is the main tab for the configurations. You can choose the type of filter method, censoring the bad word means to edit it with symbols, 
+substituting the bad word means to edit the bad word with it's closest meaning, and removing the bad word means to remove the bad word completely. 
 You can choose the censor method of bad words, (the default is *) you can choose the match method, what this means is what part of the word do you want censored, 
 you can add and/or remove your own words, when doing this, you can say if it has more types of meanings for that word, and last, you can view the word list.
 
