@@ -1,6 +1,6 @@
 
 
-Hey! Welcome to the Profanity Blocker Extension Documentation! Underneath this message are pictures of the extension and some of the key stuff you'll need to see how to get to.
+Hey! Welcome to the Profanity-Blocker extension documentation! Underneath this message is a picture of the extension without adding it.
 
 Without further ado, please click this link so we can start with the documentation! **https://github.com/User319183/Profanity-Blocker_Extension.Docs/blob/main/about.rst**
 
