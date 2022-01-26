@@ -21,3 +21,8 @@ For example, one thing that boosts preformance is to change the **Site access** 
 
 
 Anymore issues I should know about? `Join our Discord server where we offer support! <https://discord.gg/mJ3pMYuv8e>`_
+
+
+Table of Contents
+========
+Missed any part of the documentation you want to read? `Click this link to be redirected to the Table of Contents  <https://github.com/User319183/Profanity-Blocker_Extension.Docs/blob/main/table_of_contents.rst>`_
